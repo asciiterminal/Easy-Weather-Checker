@@ -8,4 +8,5 @@ And since the raw data was in Hex format we had to decode it to Text.
 ![Post API application interface](https://user-images.githubusercontent.com/34340232/152027954-5418a6cc-40f0-4b35-8efb-dcab6e84301f.png)
 This is how your PostMan-UI will look like after installation, you will receive a free API Key.
 ![Extracting information from JSON Array](https://user-images.githubusercontent.com/34340232/152028083-d84e73b5-0394-48bb-a3ca-fdc9ddaa55e0.png)
-How the JSON array is being processed.
+ How the JSON array is being processed.
+ 
